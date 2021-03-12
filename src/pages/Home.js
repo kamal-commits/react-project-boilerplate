@@ -15,5 +15,5 @@ const useStyles = makeStyles((theme) => ({
 export default () => {
   const classes = useStyles()
 
-  return <div className={classes.root}>{/*  */}</div>
+  return <div className={classes.root}>Home</div>
 }
